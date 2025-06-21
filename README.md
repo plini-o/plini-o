@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++, Java and Python for AI
+- 🔭 I’m currently working on my First Tech Challenge Team
+- 🌱 I’m currently learning C++, Java and Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm pretending to be a great physicist in the future!
 <!--
