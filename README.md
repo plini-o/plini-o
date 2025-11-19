@@ -50,8 +50,7 @@ I'm a **senior high school student** from Goiás, Brazil, with a deep passion fo
 
 - 📧 Email: [plinioassuncaoc@gmail.com](mailto:plinioassuncaoc@gmail.com)
 - 📷 Instagram: [@paslf__](https://www.instagram.com/paslf__/)
-- 💼 LinkedIn: [Plínio Assunção]([https://linkedin.com/in/plinio-assuncao](https://www.linkedin.com/in/pl%C3%ADnio-assun%C3%A7%C3%A3o-de-souza-le%C3%A3o-filho-395202328/))
-
+- 💼 LinkedIn: [Plínio Assunção](https://www.linkedin.com/in/pl%C3%ADnio-assun%C3%A7%C3%A3o-de-souza-le%C3%A3o-filho-395202328/)
 ## 🌟 Featured Projects
 
 Check out my pinned repositories below to see what I'm working on! From FTC robot controllers to physics simulations, I'm always building something interesting.
