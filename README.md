@@ -79,7 +79,7 @@ This GitHub focuses on:
 ## 📫 Contact
 
 📧 plinioassuncaoc@gmail.com  
-💼 LinkedIn: Plínio Assunção  
+💼 LinkedIn: [Plínio Assunção](https://www.linkedin.com/in/pl%C3%ADnio-assun%C3%A7%C3%A3o-de-souza-le%C3%A3o-filho-395202328/)
 
 ---
 
