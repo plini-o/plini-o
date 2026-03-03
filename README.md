@@ -20,11 +20,14 @@ Strong academic interest in:
 ## 💻 Technical Skills
 
 ### Languages
-<div align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-</div>
+- Java
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Frameworks
+- Flask
 
 ### Tools & Environment
 - Git & GitHub
