@@ -34,10 +34,11 @@ Strong academic interest in:
 - Android Studio
 
 ### Technical Interests
-- Robotics systems
-- Computer vision (AprilTag detection & localization)
-- Control logic and system modeling
-- Performance-oriented programming
+- Robotics and autonomous systems
+- Embedded systems
+- Web Development
+- Control systems and mathematical modeling
+- Cybersecurity
 
 ---
 
