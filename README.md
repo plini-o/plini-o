@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 
-Incoming Computer Engineering Undergraduate  
+Computer Engineering Undergraduate  
 Federal University of Goiás (UFG), Brazil  
 
 Strong academic interest in:
