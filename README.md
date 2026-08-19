@@ -11,8 +11,8 @@ Federal University of Goiás (UFG), Brazil
 
 Strong academic interest in:
 - Embedded systems
-- Control systems
-- Systems programming
+- Web development
+- Software engineering
 - Applied mathematics and physics
 
 ---
